@@ -1,2 +1,1 @@
-Hi this is the first commit from alt account on Github itself
-This is the second line i am adding from alt account on upstream
+I have added garbage , please accept my PR , i am learning Fork and Clone workflow
